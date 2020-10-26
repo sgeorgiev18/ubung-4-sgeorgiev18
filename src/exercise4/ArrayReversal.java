@@ -12,7 +12,7 @@ public class ArrayReversal {
         int a = input.nextInt();
         char[] b = new char[a];
         char[] c = new char[a];
-        for (int d = 0; e < b.length; e++) {
+        for (int e = 0; e < b.length; e++) {
             b[e] = input.next().charAt(0);
         }
           int f = 0;

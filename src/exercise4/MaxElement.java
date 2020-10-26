@@ -13,7 +13,7 @@ public class MaxElement {
 
         double[] b = new double[a];
 
-        double c = 0;
+        double c = 0.0;
 
        for (int d = 0; d < b.length; d++) {
             b[d] = input.nextDouble();
